@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Previsão do Tempo DEV</title>
+    <link rel="stylesheet" href="estilos/style.css" />
+    <link rel="stylesheet" href="estilos/media-query.css">
+    <link rel="shortcut icon" href="imagens/favicon-16x16.png" type="image/x-icon"/>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+    <script src="scripts.js"></script>
+  </head>
+  <body>
+    <div class="caixa-maior">
+      <input class="input-cidade" placeholder="Digite o nome da cidade" />
+      <button onclick="cliqueiNoBotao()">
+        <span class="material-symbols-outlined">search</span>
+      </button>
+
+      <div class="caixa-media">
+          <h2 class="cidade">Tempo em São Pedro</h2>
+
+          <p class="temp">22°C</p>
+
+          <div class="caixa-menor">
+            <img src="https://openweathermap.org/img/wn/04n.png" alt="icone-info-tempo" class="img-previsao"/>
+
+            <p class="condicao">nublado</p>
+          </div>
+
+          <p class="umidade">Umidade:76%</p>
+      </div>
+    </div>
+  </body>
+</html>
