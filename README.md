@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Portifólio" src="assets/img-readme.png" width="100%">
+  <img alt="Portifólio" src="imagens/previsãodotempo.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um site de previsão do tempo para ver o clima de qualquer lugar do mundo.
 
-- [Acesse o projeto finalizado, online](https://felipee-duarte.github.io/Portifolio/)
+- [Acesse o projeto finalizado, online](https://felipee-duarte.github.io/Previsao-Do-Tempo/)
 
 
 ## 📝 Licença
